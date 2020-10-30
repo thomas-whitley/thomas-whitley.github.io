@@ -12,4 +12,6 @@ This journey will naturally include any mathematical analysis and proofs as need
 ![Alt Text](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
 
-That's all, folks!  (for now)
+That's all, folks!  (for now)...except for this mathjax - doe it render?:
+
+$$E = M \cdot c^2$$
