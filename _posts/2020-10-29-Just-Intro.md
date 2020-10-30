@@ -12,6 +12,9 @@ This journey will naturally include any mathematical analysis and proofs as need
 ![Alt Text](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
 
-That's all, folks!  (for now)...except for this mathjax - doe it render?:
+That's all, folks!  (for now)...except for this mathjax - does it render?:
 
 $$E = M \cdot c^2$$
+$$\sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6}$$
+
+...and, now, folks, that is all!
