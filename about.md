@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just a little about me!  (I'm a work in progress, that's for sure...with quite a ways to go.)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+ah...where to begin?  Lots to write, but let's just say I am a consumate GIS professional, with a real passion for coding I've yet to develop full potential for.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[WayneWhitley@McHargue.org](mailto:WayneWhitley@McHargue.org)
