@@ -8,7 +8,7 @@ Just a little about me!  (I'm a work in progress, that's for sure...with quite a
 
 ### More Information
 
-ah...where to begin?  Lots to write, but let's just say I am a consumate GIS professional, with a real passion for coding I've yet to develop full potential for.
+ah...where to begin?  Lots to write, but let's just say I am a consummate GIS professional, with a real passion for coding I've yet to develop full potential for.
 
 ### Contact me
 
